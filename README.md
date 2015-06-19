@@ -7,7 +7,7 @@ step 1: Include below mwntioned files in your current directory
 ​​- performance.c
 ​​- rngs.h
 ​​- rngs.c
-​
+
 Step 2: Compile command
 ​​- gcc performance.c rngs.c -lm -o performance
 ​​-Executable named performance is created in your current directory
